@@ -1,24 +1,24 @@
-ECHO est  ativado.
+ECHO ativado.
 
+FunÃ§Ãµes Git
 
 git clone -> copiar o repositorio no computador pessoal
 
-Funções Git
 
-git add -> incluir o arquivo modificado na lista para atualizações
-
-
-git commit -m  -> salvar e comentar sobre as modificações feitas 
+git add -> incluir o arquivo modificado na lista para atualizaÃ§Ãµes
 
 
-git pull -> verifica se a cópia local está atualizada e se o virtual foi alterado.
+git commit -m  -> salvar e comentar sobre as modificaÃ§Ãµes feitas 
 
 
-git push -> atualiza o repositório virtual com as modificações locais 
+git pull -> verifica se a cÃ³pia local estÃ¡ atualizada e se o virtual foi alterado.
+
+
+git push -> atualiza o repositÃ³rio virtual com as modificaÃ§Ãµes locais 
 
 
 
-Funções no Windowns
+FunÃ§Ãµes no Windowns
 
 "cd.." e "cd" -> comandos para voltar pastas e selecionar pastas no Windowns. 
 
