@@ -11,7 +11,7 @@ git add -> incluir o arquivo modificado na lista para atualizações
 git commit -m  -> salvar e comentar sobre as modificações feitas 
 
 
-git pull -> verifica se a cópia local está atualizada com a virtual.
+git pull -> verifica se a cópia local está atualizada e se o virtual foi alterado.
 
 
 git push -> atualiza o repositório virtual com as modificações locais 
